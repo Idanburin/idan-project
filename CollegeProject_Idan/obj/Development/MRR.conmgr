@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-E1JKUGB_SQLEXPRESS.MRR"
+  DTS:DTSID="{2CD1C8FA-70B5-4375-878D-9468C2B60A93}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-E1JKUGB\SQLEXPRESS;Initial Catalog=MRR;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-CollegeProject_Idan-{2CD1C8FA-70B5-4375-878D-9468C2B60A93}DESKTOP-E1JKUGB\SQLEXPRESS.MRR;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
